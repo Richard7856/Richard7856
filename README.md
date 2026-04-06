@@ -23,6 +23,7 @@ Diseño, construyo e integro agentes conversacionales y sistemas de automatizaci
 |----------|-------------|-------|
 | [CRM Agents](https://github.com/Richard7856/CRM_Asistant) | Plataforma SaaS — agentes IA por departamento | FastAPI, React/TS, PostgreSQL, n8n |
 | [Insurance Claims Agent](https://github.com/Richard7856/AgentNeMo) | Sistema multi-agente para seguros con observabilidad | NeMo NAT, LangGraph, Phoenix, NVIDIA NIM |
+| [LegalMind](https://github.com/Richard7856/legalmind) | Simulador de juicios con IA — [legalmind.com.mx](https://legalmind.com.mx) | Next.js 16, Prisma, OpenAI, Supabase |
 | [MatchPetz](https://github.com/Richard7856/MatchPetz) | App mobile publicada en App Store y Google Play | React Native, Expo |
 
 ### Contacto
